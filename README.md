@@ -1,1 +1,1 @@
-# se_24_python
+Practicas del tercer parcial
