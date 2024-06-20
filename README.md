@@ -1,1 +1,1 @@
-Repositorio de las practicas del tercer parcial.
+# se_24_python
